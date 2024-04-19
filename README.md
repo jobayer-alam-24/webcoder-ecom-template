@@ -1,1 +1,1 @@
-# webcoder-ecom-template
+# ecom-design
